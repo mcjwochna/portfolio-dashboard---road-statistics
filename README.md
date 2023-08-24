@@ -4,9 +4,9 @@ Here's another report I've created in PowerBI. Once again You can download the .
 
 Preview text in progress :P
 
-![report](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/6ed518f0-b55a-4b10-9f22-da0b6ab9e77c)
+![report](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/e2b9c551-83b0-4749-87a7-91708c8d7c08)
 
-![report2](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/dbc66888-d52d-45c9-b275-db8656ca4dec)
+![report2](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/97cc8767-60fc-4d69-a238-f30ea8ec5d0c)
 
 ![custom_tooltip](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/ba38cc4d-99ba-490b-9c26-c8f8dc612972)
 
