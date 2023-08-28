@@ -1,7 +1,9 @@
 <h1>Portfolio - Road accidents dashboard</h1>
 
 > This is a project that shows my ability to both create additional, necessary data (custom calendar table), manage relationships between tables and to use particular time-intelligence functions for getting the best, most useful insights.
-<br>
+![calendar_table](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/24d2274f-53ff-452c-8f5a-0cb4430d72fa)
+
+
 <h2>Introduction</h2>
 
 > This is an analysis of the road incidents in the United Kingdom between January 1st, 2021 and December 31th 2022. It is based on a singular dataset, consisting of more than 307 000 rows. Each row was described by number of variables like: number of casualties, number of vehicles, date and time of the accident, road conditions, speed limit etc.
@@ -14,6 +16,7 @@
 >Removed rows that had empty values,<br>
 Transformed some texts (Accident_severity column),<br>
 Removed columns, that are not useful to me.
+
 ![data_clean](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/8c4c7868-d1d5-49d0-85dc-f4c2dac52d31)
 
 ![data_clean_2](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/226f8564-09d1-4334-b53c-2b98dd98b82d)
@@ -42,8 +45,16 @@ Filters,<br>
 Custom tooltips,<br>
 Data Visualization<br>
 
-![kpi](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/ec467dd5-635f-400a-aa3c-57c1a6fd9912)
-
 ![kpi1](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/abdcdd78-739c-49a2-9f63-f8c315c120a8)
 
 ![kpi2](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/6bfd9657-2cae-413c-af4d-bcedfc38b50d)
+
+<h2>Data Analysis</h2>
+
+<b>Several expressions and functions were used for the desired KPI. Just to name a few:</b><br>
+> CY Accidents = TOTALYTD(COUNT(Data[Accident_Index]),'Calendar'[Date]),<br>
+PY Casulties = CALCULATE(SUM(Data[Number_of_Casualties]),SAMEPERIODLASTYEAR('Calendar'[Date])),<br>
+YoY Casulties = DIVIDE([CY Casualties]-[PY Casulties],[PY Casulties])]
+
+
+![kpi](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/ec467dd5-635f-400a-aa3c-57c1a6fd9912)
