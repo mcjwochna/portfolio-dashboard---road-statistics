@@ -35,7 +35,7 @@ Indicate the frequency of accidents, based on geographical data (map)<br>
 
 <b>I used PowerBI functions/concepts like:</b>
 >Creating key performance indicators (KPIs),<br>
-Developing general DAX calculations,<br>
+Developing DAX calculations,<br>
 Data Modelling,<br>
 Measures,<br>
 Filters,<br>
