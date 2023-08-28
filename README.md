@@ -29,7 +29,7 @@ Removed columns, that are not useful to me.
 Know the difference between casualties based on the level of injuries,<br>
 Know the diffrence between current year and previous year accidents, to idicate year-over-year changes,<br>
 Compare the data based on various informations like vehicle type or road type,<br>
-Indicate the frequency of accidents, based on geographic data (map)<br>
+Indicate the frequency of accidents, based on geographical data (map)<br>
 
 <h2>Skills and Concepts demonstrated</h2>
 
