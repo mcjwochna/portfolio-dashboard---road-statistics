@@ -1,6 +1,10 @@
 <h1>Portfolio - Road accidents dashboard</h1>
 
 
+
+https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/b85ef805-4259-4592-a945-bae8fc171c05
+
+
 <h2>Introduction</h2>
 
 > This is an analysis of the road incidents in the United Kingdom between January 1st, 2021 and December 31th 2022. It is based on a singular dataset, consisting of more than 307 000 rows. Each row was described by number of variables like: number of casualties, number of vehicles, date and time of the accident, road conditions, speed limit etc. I used this data to perform in-depth analysis of the most important statistics and present them in a user-friendly, functional visualizations.
@@ -47,7 +51,7 @@ Data Visualization<br>
 
 ![custom2](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/d98160a2-c941-4b99-ae83-ce71f2137ed5)
 
-![custom3](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/4bfbbc56-fab9-4fe7-8d38-1990008aee44)
+![custom_tooltip](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/7924fb9b-31bd-439b-a41e-1a8574bd4b8f)
 
 <h2>Data Analysis</h2>
 
