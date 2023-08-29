@@ -43,9 +43,11 @@ Filters,<br>
 Custom tooltips,<br>
 Data Visualization<br>
 
-![kpi1](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/abdcdd78-739c-49a2-9f63-f8c315c120a8)
+![custom1](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/989d24e6-0b91-4d12-8593-eccdd9ee437a)
 
-![kpi2](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/6bfd9657-2cae-413c-af4d-bcedfc38b50d)
+![custom2](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/d98160a2-c941-4b99-ae83-ce71f2137ed5)
+
+![custom3](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/4bfbbc56-fab9-4fe7-8d38-1990008aee44)
 
 <h2>Data Analysis</h2>
 
