@@ -1,27 +1,25 @@
 <h1>Portfolio - Road accidents dashboard</h1>
 
-> This is a project that shows my ability to both create additional, necessary data (custom calendar table), manage relationships between tables and to use particular time-intelligence functions for getting the best, most useful insights.
-![calendar_table](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/24d2274f-53ff-452c-8f5a-0cb4430d72fa)
-
 
 <h2>Introduction</h2>
 
-> This is an analysis of the road incidents in the United Kingdom between January 1st, 2021 and December 31th 2022. It is based on a singular dataset, consisting of more than 307 000 rows. Each row was described by number of variables like: number of casualties, number of vehicles, date and time of the accident, road conditions, speed limit etc.
+> This is an analysis of the road incidents in the United Kingdom between January 1st, 2021 and December 31th 2022. It is based on a singular dataset, consisting of more than 307 000 rows. Each row was described by number of variables like: number of casualties, number of vehicles, date and time of the accident, road conditions, speed limit etc. I used this data to perform in-depth analysis of the most important statistics and present them in a user-friendly, functional visualizations.
+<br>This particular dashboard also shows my ability to both create additional, necessary data (custom calendar table), manage relationships between tables and to use particular time-intelligence functions for getting the best, most useful insights.
+![calendar_table](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/24d2274f-53ff-452c-8f5a-0cb4430d72fa)
 
-![report](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/e2b9c551-83b0-4749-87a7-91708c8d7c08)
 
 <h2>Data Cleaning and Transformation</h2><br>
 
-<b>Several steps were taken for this particular set of data:</b><br>
->Removed rows that had empty values,<br>
-Transformed some texts (Accident_severity column),<br>
-Removed columns, that are not useful to me.
+<b>This dataset was processed to obtain usable information by:</b><br>
+>Removing rows consisting of empty values to acquire high-quality output,<br>
+Transforming invalid text values (Accident_severity column),<br>
+Removing redundant columns, to not negativly affect performance.
 
 ![data_clean](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/8c4c7868-d1d5-49d0-85dc-f4c2dac52d31)
 
 ![data_clean_2](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/226f8564-09d1-4334-b53c-2b98dd98b82d)
 <br><br>
-<b>This resulted in a clean, elgant data found below:</b>
+<b>All performed steps resulted in this accurate and comprehensive data used in further analysis:</b>
 ![data_clean_1](https://github.com/mcjwochna/portfolio-dashboard---road-statistics/assets/142684191/87b50ae7-34b9-4380-bf66-24bf58882460)
 
 
