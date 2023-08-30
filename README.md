@@ -56,7 +56,7 @@ Data Visualization<br>
 <h2>Data Analysis</h2>
 
 <b>Several expressions and functions were used for the desired KPI. Just to name a few:</b><br>
-> CY Accidents = TOTALYTD(COUNT(Data[Accident_Index]),'Calendar'[Date]),<br>
+> CY Casualties = TOTALYTD(SUM(Data[Number_of_Casualties]),'Calendar'[Date]),<br>
 PY Casulties = CALCULATE(SUM(Data[Number_of_Casualties]),SAMEPERIODLASTYEAR('Calendar'[Date])),<br>
 YoY Casulties = DIVIDE([CY Casualties]-[PY Casulties],[PY Casulties])]
 
